@@ -13,4 +13,5 @@ Outside of code, you'll find me exploring worlds in **Expedition 33**, clutching
 
 ## Projects
 
-**Valostrat** (Soon™) — A free-flowing strategy creator for Valorant, combining Valoplant + Excalidraw into a simple but extensive tool for coaches and IGLs. *Closed source for now.*(https://github.com/ZeBartosz/vodding) — A React-only project that lets you take notes from a VOD, export them to PDF, and send them to your friends.
+- **Valostrat** (Soon™) — A free-flowing strategy creator for Valorant, combining Valoplant + Excalidraw into a simple but extensive tool for coaches and IGLs. *Closed source for now.* 
+- [**Vodding**](https://github.com/ZeBartosz/vodding)— A React-only project that lets you take notes from a VOD, export them to PDF, and send them to your friends.
