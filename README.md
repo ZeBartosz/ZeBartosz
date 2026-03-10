@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey Hey! 👋
 
-<!--
-**ZeBartosz/ZeBartosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Bartosz**, a junior full-stack developer based in England.
 
-Here are some ideas to get you started:
+I love building things that work well and feel good to use — from databases to user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of code, you'll find me exploring worlds in **Expedition 33**, clutching rounds in **Valorant**, or getting lost in a good **book**. Always balancing pixels with pages.
+
+---
+
+## Fun Facts:
+
+- My Steam library is 90% games I've never opened. The intention was there.
+- **One good anime and my whole day is lost.** "Just one episode" is a lie I tell myself.
