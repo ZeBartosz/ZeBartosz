@@ -9,7 +9,7 @@ When I'm not programming, I can be found exploring worlds in Expedition 33, clut
 ## Fun Facts:
 
 - I have 90% of my Steam library unused. That was the plan.
-- One good anime/Manga/Manhwa and my whole day is lost. "Just one more" is a lie I tell myself.
+- One good anime/manga/manhwa and my whole day is lost. "Just one more" is a lie I tell myself.
 
 ## Projects
 
