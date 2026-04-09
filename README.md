@@ -13,5 +13,5 @@ When I'm not programming, I can be found exploring worlds in Expedition 33, clut
 
 ## Projects
 
-- **Valostrat** (Soon™) — A free-flowing strategy creator for Valorant, combining Valoplant + Excalidraw to create a simple yet extensive strategy creator for coaches and IGLs. 
-- [**Vodding**](https://github.com/ZeBartosz/vodding)— A React-only project where you can take notes from a VOD, export them to a PDF, and share them with your friends.
+- **Valostrat** [Live](https://valostrat.net/) — A free-flowing strategy creator for Valorant, combining Valoplant + Excalidraw to create a simple yet extensive strategy creator for coaches and IGLs. 
+- [**Vodding**](https://github.com/ZeBartosz/vodding) — A React-only project where you can take notes from a VOD, export them to a PDF, and share them with your friends.
